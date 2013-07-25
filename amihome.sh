@@ -2,7 +2,7 @@
 IAM=$(who am i)
 
 
-if [ -z $IAM ]
+if [ -z "$IAM" ]
 	then 
 		echo "home"
 else
