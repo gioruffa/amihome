@@ -4,9 +4,9 @@ IAM=$(who am i)
 
 if [ -z "$IAM" ]
 	then 
-		echo "home"
+		echo "H"
 else
-	echo "remote"
+	echo "R"
 fi
 
 
